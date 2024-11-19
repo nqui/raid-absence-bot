@@ -1,4 +1,4 @@
-module disc-music-bot
+module raid-absence-bot
 
 go 1.22
 
